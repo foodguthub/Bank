@@ -1,4 +1,4 @@
-# Bank
+# Fermentation Bank
 <p> Fermentation Bank is a public bank of starter cultures: free to deposit, free to withdraw.</p>  
 
 ![scarlet_jar](https://cloud.githubusercontent.com/assets/14889513/10266205/3f80bea4-6a86-11e5-93a7-4050c5e3afef.jpg)
